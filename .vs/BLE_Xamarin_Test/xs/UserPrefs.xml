@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9329B59F-F887-47E9-9F57-C07B30A20147}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLE_Xamarin_Test.Android/BLE_Scanning.cs">
+    <Files>
+      <File FileName="BLE_Xamarin_Test.Android/BLE_Scanning.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BLE_Xamarin_Test" expanded="True" selected="True">
+            <Node name="BLE_Xamarin_Test.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BLE__Xamarin__Test.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BLE__Xamarin__Test.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BLE__Xamarin__Test FirstBuild="True" />
+</Properties>
